@@ -52,8 +52,8 @@ The agent receives a reward of 1 for reaching the goal state, and a reward of 0 
     * `Q`: The Q-table.
     * `axis`: The axis along which to find the maximum value.
       
-## NAME : BHUVANESHWAR V
-## REG NO :212221240009
+## NAME :DHANUSH S
+## REG NO :212221230020
 
 ## MONTE CARLO CONTROL FUNCTION
 ```python
